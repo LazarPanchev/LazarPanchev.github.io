@@ -1,2 +1,1 @@
-# LazarPanchev.github.io
-SoftUniBlog
+SoftUni Blog
